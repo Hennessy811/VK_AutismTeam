@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VK_AutismTeam/static/css/main.981f7211.chunk.css",
+    "main.js": "/VK_AutismTeam/static/js/main.3b151ba8.chunk.js",
+    "main.js.map": "/VK_AutismTeam/static/js/main.3b151ba8.chunk.js.map",
+    "runtime-main.js": "/VK_AutismTeam/static/js/runtime-main.fdb10c53.js",
+    "runtime-main.js.map": "/VK_AutismTeam/static/js/runtime-main.fdb10c53.js.map",
+    "static/css/2.86df01db.chunk.css": "/VK_AutismTeam/static/css/2.86df01db.chunk.css",
+    "static/js/2.93483350.chunk.js": "/VK_AutismTeam/static/js/2.93483350.chunk.js",
+    "static/js/2.93483350.chunk.js.map": "/VK_AutismTeam/static/js/2.93483350.chunk.js.map",
+    "index.html": "/VK_AutismTeam/index.html",
+    "precache-manifest.0ac571077bfa5e49df0bbe36b30c0f5f.js": "/VK_AutismTeam/precache-manifest.0ac571077bfa5e49df0bbe36b30c0f5f.js",
+    "service-worker.js": "/VK_AutismTeam/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/VK_AutismTeam/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/VK_AutismTeam/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.93483350.chunk.js.LICENSE.txt": "/VK_AutismTeam/static/js/2.93483350.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/VK_AutismTeam/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb10c53.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.93483350.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.3b151ba8.chunk.js"
+  ]
+}
